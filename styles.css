@@ -196,6 +196,9 @@ body {
 @media (max-width: 640px) {
   .resume {
     border-radius: 24px;
+    background: none;
+    box-shadow: none;
+    padding: 0;
   }
 
   .resume__header {
